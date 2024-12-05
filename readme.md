@@ -13,6 +13,7 @@ In the case of the /W3 flag, there are no problems
 In the case of the /w flag, some kind of /W1 appears, which I did not write anywhere
 
 Everything is fine on the Ninja generator
+
 Command to build with ninja and without warning:
 ```bash
 cmake . -GNinja -B.build
